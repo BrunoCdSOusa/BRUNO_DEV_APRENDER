@@ -1,0 +1,2 @@
+Este codigo sera utilizando para praticar branchs no git e no git hub 
+assim posso finalmente trabalhar em equipe de  fora otimizada
